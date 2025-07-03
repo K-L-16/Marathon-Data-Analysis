@@ -14,11 +14,11 @@ cleaning, enriching, and analyzing marathon race data
 
 ---
 
-## 🔍 Key Features
-✅ Cleaned raw marathon race data (removed missing values, combined names, computed total minutes).  
-✅ Enriched data with geographic coordinates (latitude, longitude).  
-✅ Saved processed data to CSV for further analysis.  
-✅ Wrote SQL queries for:  
+## Key Features
+ - Cleaned raw marathon race data (removed missing values, combined names, computed total minutes).  
+ - Enriched data with geographic coordinates (latitude, longitude).  
+- Saved processed data to CSV for further analysis.  
+ - Wrote SQL queries for:  
 - Counting distinct states  
 - Calculating average race times by gender  
 - Finding age range by gender  
